@@ -1,3 +1,5 @@
-## 🚀 My Development Journey
+## 📌 Future Plans
 
-Always learning, building and improving.
+- Add more Python security tools.
+- Improve project performance.
+- Write better documentation.
